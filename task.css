@@ -1,0 +1,41 @@
+.first{
+  float:right;
+}
+h6{
+    float:left;
+}
+.brd{
+    border-bottom:solid black 2px;
+    padding-top:50px;
+}
+.btn{
+    background-color: white;
+}
+.btn1{
+    border-radius:50px;
+    color:white;
+    background-color: orange;
+}
+img{
+    width:150px;
+    height:150px;
+    box-shadow: 10px 10px 5px #ccc;
+}
+p{
+    font-size:14px;
+}
+.fa {
+    padding: 20px;
+    font-size:20px;
+    width:40px;
+    text-align: center;
+}
+footer
+{
+    text-align: center;
+    padding-top:25px;
+}
+h4{
+    color:skyblue;
+    font-weight:bold; 
+}
